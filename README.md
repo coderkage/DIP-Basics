@@ -10,4 +10,3 @@ Basic python commands for digital image processing for beginners using OpenCV (c
 6. Image cropping
 7. Image saving
 8. Live direct drawing
-9. A hint of video processing
